@@ -1,1 +1,1 @@
-js code sample
+js code .
