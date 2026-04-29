@@ -1,2 +1,1 @@
-k
-heklp
+console.log("Hello");
